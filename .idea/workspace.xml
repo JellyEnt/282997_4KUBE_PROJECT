@@ -11,6 +11,7 @@
     <execution />
   </component>
   <component name="ProjectId" id="1oCPreJje8cAIHt5eB3asEzX7Ce" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612787798664</updated>
-      <workItem from="1612787799851" duration="5287000" />
+      <workItem from="1612787799851" duration="6219000" />
     </task>
     <servers />
   </component>
